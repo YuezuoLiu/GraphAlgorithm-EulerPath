@@ -40,8 +40,13 @@ Finding Euler Path or Euler Ring in a directed graph
 **输出欧拉路径** : Bassel-> sam-> Farnes -> Baheye -> Bassel -> Sawsan -> Thuraya->abes-> Farnes-> Thuraya-> Bassel
 
 求解思路：
+
 有向图存在欧拉路径的条件：
+
 1.所有的点连通。
+
 2.满足二者之一
+
 （1）所有的点出度等于入度
+
 （2）一个点满足出度 = 入度 + 1, 一个点满足入度 = 出度 + 1, 其余点满足出度 = 入度。
