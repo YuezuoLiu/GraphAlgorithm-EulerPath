@@ -1,3 +1,0 @@
-/Users/liuyuezuo/shuidijihua/i-training-coding/codes/2022-07/刘悦佐/Assignment_2/build/CMakeFiles/main.dir
-/Users/liuyuezuo/shuidijihua/i-training-coding/codes/2022-07/刘悦佐/Assignment_2/build/CMakeFiles/edit_cache.dir
-/Users/liuyuezuo/shuidijihua/i-training-coding/codes/2022-07/刘悦佐/Assignment_2/build/CMakeFiles/rebuild_cache.dir
